@@ -22,7 +22,6 @@
   <name>Internal Releases</name>
   <url>http://localhost:8081/repository/maven-central/</url>
   </repository>
- http://localhost:8081/repository/maven-central/
   <snapshotRepository>
 <id>deployment</id>
 <name>Internal Releases</name>
